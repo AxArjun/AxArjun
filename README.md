@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Arjun Ramprasad
+# 👋 Hi, I'm Arjun R K
 
 🚀 Aspiring AI Systems Engineer | Full-Stack Developer  
 🧠 Building Autonomous AI Infrastructure & Real-Time Monitoring Systems  
