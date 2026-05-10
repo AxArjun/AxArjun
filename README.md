@@ -1,74 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Arjun</h1>
 
-# 👋 Hi, I'm Arjun R K
+<p align="center">
+  3rd Year B.Tech IT Student at SRM Institute of Science and Technology (SRMIST)
+</p>
 
-🚀 Aspiring AI Systems Engineer | Full-Stack Developer  
-🧠 Building Autonomous AI Infrastructure & Real-Time Monitoring Systems  
-⚡ Focus: AIOps, Computer Vision, Distributed Systems  
-
----
-
-🔥 Currently Building:
-- 🛠 AISO → Autonomous AI Infrastructure Monitoring Platform (128 Nodes, 1024 GPUs)
-- 👷 Worker Safety Detection System → Real-time PPE detection using YOLOv5
-- 🧠 AI-driven Healthcare + Monitoring Systems
-
-💡 I build systems that don't just show data — they **think, predict, and act.**
-
-## ⚙️ Tech Stack
-
-💻 Frontend:
-- React, Next.js, TailwindCSS, TypeScript
-
-🧠 Backend:
-- FastAPI, Node.js, REST APIs
-
-📊 AI / ML:
-- YOLOv5, OpenCV, NLP, LangChain, LangGraph
-
-🗄 Databases:
-- PostgreSQL, TimescaleDB, Redis, MongoDB
-
-☁️ Systems:
-- Distributed Systems, GPU Monitoring, Telemetry Pipelines
-
-🛠 Tools:
-- Docker, Git, VS Code, Postman
-
-## 🚀 Featured Projects
-
-### 🧠 AISO – Autonomous AI System Operations
-- Real-time monitoring of AI clusters (GPU, network, cost, reliability)
-- Predictive analytics + autonomous optimization
-- Built with FastAPI + React + TimescaleDB
-
-👉 Impact:
-- Designed for 1000+ GPU scale systems
-- Includes telemetry → prediction → execution pipeline
+<p align="center">
+  Passionate about building Machine Learning models while exploring Data Analytics as my side quest
+</p>
 
 ---
 
-### 👷 Worker Safety Detection System
-- Real-time PPE detection using YOLOv5
-- Detects helmet, vest, safety violations via CCTV feeds
-- Built with Python, OpenCV, Deep Learning
+## 🚀 About Me
 
-👉 Impact:
-- Improves industrial safety monitoring
-- Scalable for multi-camera surveillance
+- 🎓 B.Tech Information Technology @ SRMIST
+- 🤖 Interested in Machine Learning, AI Systems & Data Analytics
+- 📊 Love working with data, visualization, and intelligent applications
+- ⚡ Always learning and building new things
 
 ---
-## ⚡ What Sets Me Apart
 
-- I build **production-grade systems**, not just projects
-- Focus on **real-world impact (AI + Infrastructure + Safety)**
-- Strong understanding of **system design + scalability**
-- Combine **AI + Full-stack + System Thinking**
+## 💻 Languages
 
-## 📫 Let's Connect
-
-📧 Email: arjunramprasad.2005email@gmail.com  
-💼 LinkedIn: in.linkedin.com/in/axarjun 
-🌐 Portfolio: will be posted soon
+`Python` `Java` `JavaScript` `TypeScript` `SQL` 
 
 ---
+
+## 🛠️ Tools & Technologies
+
+`React` `Next.js` `FastAPI` `Node.js` `Tailwind CSS`  
+`PostgreSQL` `MongoDB` `Firebase` `Supabase` `Docker`  
+`NumPy` `Pandas` `Matplotlib` `Git` `AWS`
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/axarjun/
+- Email: arjunramprasad.2005@gmail.com
