@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Arjun</h1>
+<h1 align="center">Hey I'm Arjun</h1>
 
 <p align="center">
   3rd Year B.Tech IT Student at SRM Institute of Science and Technology (SRMIST)
@@ -28,8 +28,8 @@
 ## 🛠️ Tools & Technologies
 
 `React` `Next.js` `FastAPI` `Node.js` `Tailwind CSS`  
-`PostgreSQL` `MongoDB` `Firebase` `Supabase` `Docker`  
-`NumPy` `Pandas` `Matplotlib` `Git` `AWS`
+`PostgreSQL` `MongoDB` `Redis` `Docker` `Pine Cone`
+`NumPy` `Pandas` `Matplotlib` `Git` `Rest api`
 
 ---
 
