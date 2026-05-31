@@ -1,7 +1,7 @@
 <h1 align="center">Hey I'm Arjun</h1>
 
 <p align="center">
-  3rd Year B.Tech IT Student at SRM Institute of Science and Technology (SRMIST)
+  Final Year B.Tech IT Student at SRM Institute of Science and Technology (SRMIST)
 </p>
 
 <p align="center">
