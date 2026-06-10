@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Arjun
+#  Hey, I'm Arjun
 
 ###  Final Year B.Tech IT Student @ SRM Institute of Science and Technology (SRMIST)
 
@@ -14,17 +14,17 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-🎓 Final Year **B.Tech Information Technology** Student at **SRMIST**
+ Final Year **B.Tech Information Technology** Student at **SRMIST**
 
-🤖 Passionate about **Machine Learning**, **AI Systems**, and **Intelligent Applications**
+ Passionate about **Machine Learning**, **AI Systems**, and **Intelligent Applications**
 
-📊 Exploring **Data Analytics** as my side quest
+ Exploring **Data Analytics** as my side quest
 
-⚡ Love transforming ideas into real-world products
+ Love transforming ideas into real-world products
 
-🚀 Currently building projects in:
+ Currently building projects in:
 
 * Artificial Intelligence
 * Machine Learning
@@ -34,7 +34,7 @@
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Goal:
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -153,8 +153,8 @@ Goal:
 
 <div align="center">
 
-### 🚀 Building Today. Learning Forever.
+###  Building Today. Learning Forever.
 
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+ If you like my work, feel free to explore my repositories and connect with me!
 
 </div>
