@@ -105,8 +105,3 @@ End-to-end pipeline covering relational ETL, MongoDB document storage, and a sta
 
 <div align="center">
 
-###  Building Today. Learning Forever.
-
- If you like my work, feel free to explore my repositories and connect with me!
-
-</div>
