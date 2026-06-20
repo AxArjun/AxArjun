@@ -89,19 +89,18 @@ End-to-end pipeline covering relational ETL, MongoDB document storage, and a sta
 <img src="https://streak-stats.demolab.com?user=AxArjun&theme=tokyonight&hide_border=true" />
 
 </div>
-
-
-Currently
-
-Learning DSA, building out FuelIQ, and developing a production RAG system for ophthalmology using LangGraph and Qdrant.
-
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AxArjun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxArjun&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
-LinkedIn · Email
-
+<a href="https://www.linkedin.com/in/axarjun/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:arjunramprasad.2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
 ###  Building Today. Learning Forever.
 
  If you like my work, feel free to explore my repositories and connect with me!
