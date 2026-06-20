@@ -70,6 +70,26 @@ End-to-end pipeline covering relational ETL, MongoDB document storage, and a sta
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AxArjun&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxArjun&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AxArjun&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 Currently
 
@@ -81,5 +101,9 @@ Learning DSA, building out FuelIQ, and developing a production RAG system for op
 </div>
 <div align="center">
 LinkedIn · Email
+
+###  Building Today. Learning Forever.
+
+ If you like my work, feel free to explore my repositories and connect with me!
 
 </div>
