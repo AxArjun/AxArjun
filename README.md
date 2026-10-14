@@ -1,11 +1,9 @@
-<!-- ============ HERO ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:06B6D4&height=210&section=header&text=Arjun%20R%20K&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Data%20%C2%B7%20Backend%20%C2%B7%20GPU%20%26%20HPC%20curious&descSize=18&descAlignY=60" width="100%" alt="Arjun R K banner"/>
+# Arjun R K
+### AI · Data · Backend · GPU & HPC curious
 
-<a href="https://github.com/AxArjun">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=1D4ED8&center=true&vCenter=true&width=700&lines=AI+Intern+%40+Applied+Systems+Research+%26+Technology;Models+%E2%86%92+Pipelines+%E2%86%92+APIs+%E2%86%92+Dashboards;Curious+about+GPU+%26+HPC%3A+making+compute+fast;Open+to+AI+Eng+%7C+Data+Eng+%7C+FDE+%7C+SDE+%C2%B7+Class+of+2027" alt="Typing intro"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=1D4ED8&center=true&vCenter=true&width=520&height=30&lines=AI+Intern+%C2%B7+Applied+Systems+Research;Models+%E2%86%92+Pipelines+%E2%86%92+APIs+%E2%86%92+Dashboards;Open+to+AI+%7C+Data+%7C+FDE+%7C+SDE+%C2%B7+2027" alt="Typing intro"/>
 
 <br/>
 
@@ -50,7 +48,6 @@ Final-year B.Tech IT student at **SRMIST Chennai**, currently an **AI Intern at 
 **AISO: AI Infrastructure Observability Platform**
 - Built on **FastAPI · PostgreSQL · TimescaleDB · Redis**
 - Lead a small team of undergraduate contributors on the codebase
-- <!-- ADD: one measurable outcome, e.g. metrics/sec ingested or latency of a key query. Verified numbers only. -->
 
 ---
 
@@ -58,9 +55,19 @@ Final-year B.Tech IT student at **SRMIST Chennai**, currently an **AI Intern at 
 
 ### 🌊 [JalRakshak-HD](https://github.com/AxArjun/JalRakshak---HD): Dam-Break & Disaster-Response Intelligence Platform
 > **Smart India Hackathon 2026 · Problem Statement SIH26161 · Team of 6**
-> My role: <!-- ADD: your exact contribution, e.g. backend APIs / HADR screening / validation scripts -->
 
 A configuration-driven pipeline from dam geometry to breach hydrograph, **2D flood simulation**, **near-field particle (SPH) simulation**, hazard classification, and humanitarian exposure screening, served through a React GIS dashboard. New dams are onboarded with YAML, not code changes.
+
+<table>
+  <tr>
+    <td><img src="https://github.com/AxArjun/JalRakshak---HD/raw/main/outputs/dashboard/screenshots/m10_real_map_simulation.png" alt="Flood simulation playback" width="100%"/></td>
+    <td><img src="https://github.com/AxArjun/JalRakshak---HD/raw/main/outputs/dashboard/screenshots/m10_real_map_hadr.png" alt="HADR exposure screening" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Flood simulation playback</sub></td>
+    <td align="center"><sub>HADR exposure screening</sub></td>
+  </tr>
+</table>
 
 | | |
 |---|---|
@@ -82,7 +89,6 @@ Multi-camera YOLOv8 pipeline: threaded capture per camera → Redis pub/sub → 
 |---|---|
 | **Pipeline** | Per-camera threads · spatial helmet/vest matching per worker · alert cooldown throttling |
 | **Stack** | YOLOv8 · OpenCV · FastAPI · Redis · SQLAlchemy · React 19 + TypeScript · Docker |
-| **Metrics** | <!-- ADD: mAP / precision / recall on your PPE model + FPS on CPU vs GPU --> |
 
 ---
 
@@ -96,11 +102,7 @@ SQL analytics → EDA → feature engineering → Random Forest → **7-page Pow
 
 ### 🗄️ [Enterprise Data Engineering Pipeline](https://github.com/AxArjun/Enterprise-Data-Engineering-Pipeline): Multi-Database Architecture
 A retail scenario across three storage layers: **relational ETL**, **MongoDB** product catalog, and a **star-schema warehouse** (fact + dimension tables) for analytical queries.
-
-| | |
-|---|---|
-| **Scale** | <!-- ADD: row counts, load time, number of fact/dim tables --> |
-| **Stack** | Python · SQL · PostgreSQL · MongoDB |
+`Python` `SQL` `PostgreSQL` `MongoDB`
 
 ---
 
@@ -113,8 +115,8 @@ Flutter app + FastAPI backend: multi-vehicle garage, fuel-efficiency analytics, 
 
 ### 🧩 Also Built
 - **[REVORA](https://revora-woad-tau.vercel.app)**: AI revenue recovery for failed payments (Razorpay Buildathon 2026). LLM proposes actions; a **deterministic policy gateway** approves them. FastAPI · Next.js · Gemini · live on Vercel/Render
-- **AI Contract Analyzer**: multi-agent contract review with LangGraph <!-- ADD repo link -->
-- **SentinEdge**: [enterprise fraud risk pipeline](https://github.com/AxArjun/enterprise-fraud-risk-pipeline) with tiered review queues
+- **AI Contract Analyzer**: multi-agent contract review with LangGraph
+- **[SentinEdge](https://github.com/AxArjun/enterprise-fraud-risk-pipeline)**: enterprise fraud risk pipeline with tiered review queues
 
 ---
 
@@ -144,19 +146,14 @@ What pulls me here: the moment a system stops being "does it work?" and becomes 
 - Running **physics solvers** (D-Flow FM, DualSPHysics) as stages of a larger pipeline in JalRakshak-HD
 - **Real-time inference** under frame-rate and latency limits in the PPE detection system
 
-**What I'm building toward** → see Roadmap below.
-
 ---
 
 ## 🗺️ Roadmap
 
-- [ ] GPU vs CPU inference benchmark for the PPE detector (FPS, latency, batch size), then export to ONNX / TensorRT
+- [ ] GPU vs CPU inference benchmark for the PPE detector (FPS, latency, batch size), then ONNX / TensorRT export
 - [ ] Run the near-field SPH case on GPU and publish timing vs CPU
-- [ ] CUDA fundamentals: write and profile a few kernels (reductions, matrix ops)
-- [ ] MPI / multi-process basics on a small simulation workload
 - [ ] PySpark layer on the data-engineering pipeline
 - [ ] Azure deployment + **DP-900**
-- [ ] Harden FuelIQ (tests, CI, deployment)
 
 *Checked items get a link to the repo or write-up.*
 
@@ -178,7 +175,5 @@ What pulls me here: the moment a system stops being "does it work?" and becomes 
 **Hiring for 2027 graduates in AI, data, backend, or GPU/HPC-adjacent roles? Let's talk.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axarjun/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B1220&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
